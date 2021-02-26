@@ -1,0 +1,5 @@
+.xml
+dist/
+node_modules/
+.idea
+.cache

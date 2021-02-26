@@ -1,0 +1,31 @@
+{
+  "name": "react-instagram-copy",
+  "version": "1.0.0",
+  "description": "Insta react copy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7soapte/react-instagram-copy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7soapte/react-instagram-copy/issues"
+  },
+  "homepage": "https://github.com/7soapte/react-instagram-copy#readme",
+  "devDependencies": {
+    "date-fns": "^2.17.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-loading-skeleton": "^2.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "dependencies": {}
+}
